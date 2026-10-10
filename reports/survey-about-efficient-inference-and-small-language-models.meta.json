@@ -1,0 +1,23 @@
+{
+  "model": "openai:gpt-4o-mini",
+  "elapsed_s": 90.8,
+  "subagent_calls": 7,
+  "tool_calls": {
+    "write_todos": 6,
+    "task": 7,
+    "read_file": 3,
+    "write_file": 2,
+    "execute": 2
+  },
+  "tokens": {
+    "input": 129710,
+    "output": 3171
+  },
+  "n_sources": 10,
+  "source_families": [
+    "arxiv",
+    "hf-daily",
+    "web"
+  ],
+  "topic": "survey about efficient inference and small language models"
+}

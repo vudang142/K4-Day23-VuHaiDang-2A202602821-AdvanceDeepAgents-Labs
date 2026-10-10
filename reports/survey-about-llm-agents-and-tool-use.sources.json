@@ -1,0 +1,82 @@
+[
+  {
+    "n": 1,
+    "id": "2610.11963",
+    "url": "https://arxiv.org/abs/2610.11963",
+    "title": "Can LLMs Fix It Without Code? Toward Automated Verification of No-Code Bug Fixes",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2610.11858",
+    "url": "https://arxiv.org/abs/2610.11858",
+    "title": "Trajectory-Guided Fault Localization for Agent Skill Evolution",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2503.10689",
+    "url": "https://huggingface.co/papers/2503.10689",
+    "title": "Learning to Contextualize Web Pages for Enhanced Decision Making by LLM Agents",
+    "date": "2025-03-12",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2308.05391",
+    "url": "https://huggingface.co/papers/2308.05391",
+    "title": "Enhancing Trust in LLM-Based AI Automation Agents: New Considerations and Future Challenges",
+    "date": "2023-08-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "N/A",
+    "url": "https://www.freecodecamp.org/news/the-open-source-llm-agent-handbook/",
+    "title": "The Open Source LLM Agent Handbook: How to Automate",
+    "date": "2025-06-03",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "N/A",
+    "url": "https://link.springer.com/article/10.1007/s10462-025-11471-9",
+    "title": "From Language to Action: A Review of Large Language Models as Autonomous Agents and Tool Users",
+    "date": "2026-01-06",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "N/A",
+    "url": "https://dl.acm.org/doi/10.1016/j.is.2026.102748",
+    "title": "A modular large language model agent architecture for adaptive and autonomous process-aware execution",
+    "date": "2026-08-13",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "2610.11899",
+    "url": "https://arxiv.org/abs/2610.11899",
+    "title": "Forms of LLM-Integrated Applications from LLM-Chats to Autonomous AI Agent System",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2610.10184",
+    "url": "https://arxiv.org/abs/2610.10184",
+    "title": "Agentic AI-Assisted Modeling for Production Scheduling: Assessment in Constraint Programming",
+    "date": "2026-10-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "2512.13278",
+    "url": "https://huggingface.co/papers/2512.13278",
+    "title": "AutoTool: Dynamic Tool Selection and Integration for Agentic Reasoning",
+    "date": "2025-12-15",
+    "source": "hf-search"
+  }
+]

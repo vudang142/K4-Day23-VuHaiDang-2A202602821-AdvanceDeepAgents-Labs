@@ -1,0 +1,82 @@
+[
+  {
+    "n": 1,
+    "id": "2610.05597",
+    "url": "https://arxiv.org/abs/2610.05597",
+    "title": "More Than Words: Compositional Tokenization for Efficient Language Models",
+    "date": "2026-10-04",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2610.05383",
+    "url": "https://arxiv.org/abs/2610.05383",
+    "title": "Sibyl: An Efficient Small-large Model Collaboration Framework for Long-horizon Tasks",
+    "date": "2026-10-04",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2606.14711",
+    "url": "https://huggingface.co/papers/2606.14711",
+    "title": "SWARM-LLM: Collaborative Inference for Edge-based Small Language Models",
+    "date": "2026-04-22",
+    "source": "hf-daily"
+  },
+  {
+    "n": 4,
+    "id": "2510.03515",
+    "url": "https://huggingface.co/papers/2510.03515",
+    "title": "RAPID: An Efficient Reinforcement Learning Algorithm for Small Language Models",
+    "date": "2025-10-03",
+    "source": "hf-daily"
+  },
+  {
+    "n": 5,
+    "id": "2604.11512",
+    "url": "https://huggingface.co/papers/2604.11512",
+    "title": "EdgeCIM: A Hardware-Software Co-Design for CIM-Based Acceleration of Small Language Models",
+    "date": "2026-04-13",
+    "source": "hf-daily"
+  },
+  {
+    "n": 6,
+    "id": "2411.03350",
+    "url": "https://huggingface.co/papers/2411.03350",
+    "title": "A Comprehensive Survey of Small Language Models in the Era of Large Language Models",
+    "date": "2024-11-04",
+    "source": "hf-daily"
+  },
+  {
+    "n": 7,
+    "id": "2610.11978",
+    "url": "https://arxiv.org/abs/2610.11978",
+    "title": "Specialized Decision Models vs. General-Purpose LLMs: Benchmarking Jev Across Knowledge, Reasoning, and Multilingual Tasks",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2610.02267",
+    "url": "https://arxiv.org/abs/2610.02267",
+    "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
+    "date": "2026-10-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "N/A",
+    "url": "https://ijcai.org/proceedings/2026/0627.pdf",
+    "title": "Mapping the Efficiency Landscape of Small Language Models",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "N/A",
+    "url": "https://aclanthology.org/2025.trustnlp-main.25.pdf",
+    "title": "Are Small Language Models Ready to Compete with Large Language Models for Practical Applications?",
+    "date": "N/A",
+    "source": "web"
+  }
+]

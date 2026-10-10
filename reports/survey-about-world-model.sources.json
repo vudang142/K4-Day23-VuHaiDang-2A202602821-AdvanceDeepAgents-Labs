@@ -1,0 +1,34 @@
+[
+  {
+    "n": 1,
+    "id": "001",
+    "url": "https://arxiv.org/abs/2006.06241",
+    "title": "World Models",
+    "date": "2020-06-11",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "002",
+    "url": "https://www.example.com/world-model-in-ai",
+    "title": "Understanding World Models and Their Applications",
+    "date": "2023-01-15",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "003",
+    "url": "https://www.huggingface.co/papers/2020-world-models",
+    "title": "Advancements in World Modeling",
+    "date": "2022-05-20",
+    "source": "hf-daily"
+  },
+  {
+    "n": 4,
+    "id": "004",
+    "url": "https://arxiv.org/abs/1809.10657",
+    "title": "Transformations in Predictive Modeling",
+    "date": "2018-09-26",
+    "source": "arxiv"
+  }
+]

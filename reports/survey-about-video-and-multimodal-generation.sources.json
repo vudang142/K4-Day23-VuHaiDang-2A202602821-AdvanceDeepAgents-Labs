@@ -1,0 +1,58 @@
+[
+  {
+    "n": 1,
+    "id": "2610.12417",
+    "url": "https://arxiv.org/abs/2610.12417",
+    "title": "WOVEN: Weaving Visual World Modeling into Multimodal LLMs",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2310.19512",
+    "url": "https://huggingface.co/papers/2310.19512",
+    "title": "VideoCrafter1: Open Diffusion Models for High-Quality Video Generation",
+    "date": "2023-10-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "N/A",
+    "url": "https://openaccess.thecvf.com/content/CVPR2026/papers/Huang_UnityVideo_Unified_Multi-Modal_Multi-Task_Learning_for_Enhancing_World-Aware_Video_Generation_CVPR_2026_paper.pdf",
+    "title": "UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "N/A",
+    "url": "https://openaccess.thecvf.com/content/CVPR2026/papers/An_OneStory_Coherent_Multi-Shot_Video_Generation_with_Adaptive_Memory_CVPR_2026_paper.pdf",
+    "title": "OneStory: Coherent Multi-Shot Video Generation with Adaptive Memory",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "N/A",
+    "url": "https://openaccess.thecvf.com/content/CVPR2026W/VGBE/papers/Safavigerdini_Generative_AI_Video_Evaluation_Survey_of_Metrics_Benchmarks_and_Trustworthiness_CVPRW_2026_paper.pdf",
+    "title": "Generative AI Video Evaluation: Survey of Metrics, Benchmarks, and Trustworthiness",
+    "date": "2026",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "N/A",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12349415/",
+    "title": "A Perspective on Quality Evaluation for AI-Generated Videos",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "2410.19884",
+    "url": "https://arxiv.org/html/2410.19884v2",
+    "title": "A Survey of AI-Generated Video Evaluation",
+    "date": "2026-03-19",
+    "source": "arxiv"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "n": 1,
+    "id": "2610.12124",
+    "url": "https://arxiv.org/abs/2610.12124",
+    "title": "Use and Disuse: Intent-Structured Experience Consolidation for Memory and Learning in LLM Agents",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2412.10400",
+    "url": "https://dl.acm.org/doi/full/10.1145/3834858",
+    "title": "Reinforcement Learning Enhanced LLMs: A Survey",
+    "date": "2026-09-29",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2509.08827",
+    "url": "https://www.alphaxiv.org/abs/2509.08827",
+    "title": "A Survey of Reinforcement Learning for Large Reasoning Models",
+    "date": "2025-10-09",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "2312.05657",
+    "url": "https://huggingface.co/papers/2312.05657",
+    "title": "Leveraging Reinforcement Learning and Large Language Models for Code Optimization",
+    "date": "2023-12-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2302.06692",
+    "url": "https://huggingface.co/papers/2302.06692",
+    "title": "Guiding Pretraining in Reinforcement Learning with Large Language Models",
+    "date": "2023-02-13",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2610.11959",
+    "url": "https://arxiv.org/abs/2610.11959",
+    "title": "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2610.11281",
+    "url": "https://arxiv.org/abs/2610.11281",
+    "title": "How to post-train on a surrogate: Envelope sampling mitigates reward hacking",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  }
+]
